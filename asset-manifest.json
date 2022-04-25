@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.f47a53da.chunk.css",
+    "main.js": "/home/static/js/main.2da6d34d.chunk.js",
+    "main.js.map": "/home/static/js/main.2da6d34d.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.2e38c7ec.chunk.js": "/home/static/js/2.2e38c7ec.chunk.js",
+    "static/js/2.2e38c7ec.chunk.js.map": "/home/static/js/2.2e38c7ec.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.e026b4df68dc10d2461115f195518e64.js": "/home/precache-manifest.e026b4df68dc10d2461115f195518e64.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.f47a53da.chunk.css.map": "/home/static/css/main.f47a53da.chunk.css.map",
+    "static/js/2.2e38c7ec.chunk.js.LICENSE.txt": "/home/static/js/2.2e38c7ec.chunk.js.LICENSE.txt",
+    "static/media/AddaptedApp.png": "/home/static/media/AddaptedApp.1a64ab6f.png",
+    "static/media/ComputerVisionReact.png": "/home/static/media/ComputerVisionReact.e26588af.png",
+    "static/media/aws.svg": "/home/static/media/aws.bf07b30e.svg",
+    "static/media/c.svg": "/home/static/media/c.f4e4ce8a.svg",
+    "static/media/css.svg": "/home/static/media/css.0ddd3aa4.svg",
+    "static/media/dynamodb.svg": "/home/static/media/dynamodb.5f109dfd.svg",
+    "static/media/go.svg": "/home/static/media/go.e97b8362.svg",
+    "static/media/graphql.svg": "/home/static/media/graphql.a109bd9c.svg",
+    "static/media/html.svg": "/home/static/media/html.3634f905.svg",
+    "static/media/ionic.svg": "/home/static/media/ionic.73385a69.svg",
+    "static/media/javascript.svg": "/home/static/media/javascript.1087a459.svg",
+    "static/media/kyleconnolly.png": "/home/static/media/kyleconnolly.93df004a.png",
+    "static/media/mongodb.svg": "/home/static/media/mongodb.b30ceef7.svg",
+    "static/media/nodejs.svg": "/home/static/media/nodejs.ccb43d34.svg",
+    "static/media/python.svg": "/home/static/media/python.cd433691.svg",
+    "static/media/react.svg": "/home/static/media/react.4a5c3761.svg",
+    "static/media/resume.pdf": "/home/static/media/resume.9d3da0e2.pdf",
+    "static/media/sql.svg": "/home/static/media/sql.c02ade79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/js/2.2e38c7ec.chunk.js",
+    "static/css/main.f47a53da.chunk.css",
+    "static/js/main.2da6d34d.chunk.js"
+  ]
+}
